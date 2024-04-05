@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+matplotlib
+openpyxl  # If you're using pandas to read Excel files, this might be needed
